@@ -1,0 +1,2 @@
+#define __GITHASH__ "@GITHASH_VAL@"
+#define __GITREVISION__ @GITREV_VAL@
