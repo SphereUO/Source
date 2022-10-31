@@ -31,7 +31,7 @@
 *.o
 *.obj
 *.exe
-*.vcxproj.*
+*.vcxproj
 
 # Ignore some files in the parent folder
 /*.cmake
