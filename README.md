@@ -115,4 +115,4 @@ At the moment, Clang was tested only on Windows and in combination with Visual S
 
 
 ## Thanks
-- SphereUO
+- SphereServer
